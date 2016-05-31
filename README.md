@@ -1,0 +1,2 @@
+# QYInotechSDK
+QYInotechSDK for iOS
