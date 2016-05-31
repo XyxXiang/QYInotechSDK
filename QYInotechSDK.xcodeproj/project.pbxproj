@@ -28,6 +28,7 @@
 		CDD0DE751CFD9670004A338E /* libQYInotechSDK.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libQYInotechSDK.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDD0DE781CFD9670004A338E /* QYInotechSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QYInotechSDK.h; sourceTree = "<group>"; };
 		CDD0DE7A1CFD9670004A338E /* QYInotechSDK.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QYInotechSDK.m; sourceTree = "<group>"; };
+		CDD0DE811CFD9773004A338E /* INSDKLib.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = INSDKLib.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +45,7 @@
 		CDD0DE6C1CFD9670004A338E = {
 			isa = PBXGroup;
 			children = (
+				CDD0DE811CFD9773004A338E /* INSDKLib.podspec */,
 				CDD0DE771CFD9670004A338E /* QYInotechSDK */,
 				CDD0DE761CFD9670004A338E /* Products */,
 			);
